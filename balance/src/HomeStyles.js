@@ -1,10 +1,10 @@
 import { makeStyles } from '@mui/styles';
 
-const useStyles = makeStyles((theme) => ({
+const homeStyles = makeStyles((theme) => ({
     background: {
         padding: 45,
-        borderColor: 'darkblue'
+        backgroundColor: 'darkblue'
     }
 }));
 
-export default useStyles;
+export default homeStyles;

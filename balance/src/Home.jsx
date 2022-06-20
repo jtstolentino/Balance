@@ -1,5 +1,5 @@
 import React from "react";
-import useStyles from './HomeStyles'
+import useStyles from './homeStyles'
 import { Typography } from '@mui/material'
 
 const Home = () => {
